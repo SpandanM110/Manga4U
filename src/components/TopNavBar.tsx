@@ -40,7 +40,7 @@ export const TopNavBar = () => {
                         <LogoIcon className="mr-1 md:mr-3 stroke-textOnBackgroundColor" />{" "}
                         Manga4U
                     </NextLink>
-                    <div className="flex flex-row items-center justify-center">
+                    {/* <div className="flex flex-row items-center justify-center">
                         <div
                             className={`${
                                 theme === undefined && "hidden"
@@ -64,7 +64,7 @@ export const TopNavBar = () => {
                         <label htmlFor="toggle" className=" ">
                             <DarkModeIcon className="stroke-textOnBackgroundColor h-5 w-5" />
                         </label>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </div>
