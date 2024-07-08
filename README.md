@@ -1,8 +1,9 @@
 
 
 >
-> Application inspired by Tinder's functionality, to swipe and find love in a book. Developed with Next.js 13, Tailwind CSS, Redux-Toolkit, Redux-Persist & SplideJs.
+> Application inspired by Tinder's functionality, to swipe and find love in Manga. Developed with Next.js 13, Tailwind CSS, Redux-Toolkit, Redux-Persist & SplideJs.
 >
+
 
 # Quick Start
 
@@ -21,5 +22,6 @@ The following dependencies were added:
 |redux-persist| 6.0.0|
 |tailwindcss| 3.3.2|
 |typescript| 5.1.3|
+LLamma Index LLM (Recommendations)
 
 Some other features in this Next.js 13.4 project include the use of layouts, metadata, dark mode, and local storage.
